@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "Jinan Zhang"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Ph.D Candidate at Univeristy of Georgia."
+  avatar : "/assets/images/jinan_bio-photo.png"
+  bio    : "Ph.D. Candidate, Research Assistant, Electrical and Computer Engineering, Univeristy of Georgia."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
